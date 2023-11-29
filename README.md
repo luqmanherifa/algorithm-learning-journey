@@ -1,2 +1,2 @@
-# algorithm-learning-journey
+# Algorithm Learning Journey
  
